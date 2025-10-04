@@ -69,9 +69,6 @@
 | **Version Control** | Git + GitHub |
 
 ---
-
-## 🖼 Screenshots
-
 ## 🖼 Screenshots
 
 > *(Preview of TaxGenie features and UI)*  
