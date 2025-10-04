@@ -1,18 +1,13 @@
-<!-- PROJECT LOGO -->
-<p align="center">
-  <img src="assets/logo.png" alt="TaxGenie Logo" width="120" height="120">
-</p>
-
-<h1 align="center">🧮 TaxGenie</h1>
+# 🧮 TaxGenie
 
 <p align="center">
   A smart tax computation and simulation web app — built with React + TypeScript + Vite.  
-  Compare tax regimes, simulate “what-if” cases, upload Form 16, and generate reports instantly.
+  Compare tax regimes, simulate "what-if" cases, upload Form 16, and generate reports instantly.
   <br />
   <a href="https://github.com/om-kumar-singh/TaxGenie"><strong>Explore the docs »</strong></a>
   <br />
   <br />
-  <a href="https://github.com/om-kumar-singh/TaxGenie">View Demo</a>
+  <a href="https://taxgenie-helper.netlify.app/">View Demo</a>
   ·
   <a href="https://github.com/om-kumar-singh/TaxGenie/issues">Report Bug</a>
   ·
@@ -24,15 +19,13 @@
 ## 🏷️ Badges
 
 <p align="center">
-
-![Node](https://img.shields.io/badge/Node.js-16%2B-green?logo=node.js)
-![React](https://img.shields.io/badge/React-18-blue?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)
-![Vite](https://img.shields.io/badge/Vite-Build-orange?logo=vite)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?logo=tailwind-css)
-![License](https://img.shields.io/github/license/om-kumar-singh/TaxGenie)
-![Stars](https://img.shields.io/github/stars/om-kumar-singh/TaxGenie?style=social)
-
+  ![Node](https://img.shields.io/badge/Node.js-16%2B-green?logo=node.js)
+  ![React](https://img.shields.io/badge/React-18-blue?logo=react)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)
+  ![Vite](https://img.shields.io/badge/Vite-Build-orange?logo=vite)
+  ![Tailwind](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?logo=tailwind-css)
+  ![License](https://img.shields.io/github/license/om-kumar-singh/TaxGenie)
+  ![Stars](https://img.shields.io/github/stars/om-kumar-singh/TaxGenie?style=social)
 </p>
 
 ---
@@ -67,7 +60,7 @@
 ## 🛠 Tech Stack
 
 | Category | Technology |
-|-----------|-------------|
+|----------|------------|
 | **Frontend** | React (TypeScript) |
 | **Build Tool** | Vite |
 | **Styling** | Tailwind CSS |
@@ -80,12 +73,19 @@
 
 ## 🖼 Screenshots
 
-> *(Add your real screenshots here once available)*
+> *(Preview of TaxGenie features and UI)*  
 
 <p align="center">
-  <img src="assets/screenshots/dashboard.png" alt="Dashboard" width="75%"><br/>
-  <em>Dashboard showing user tax computation and comparison</em>
+  <img src="assets/screenshots/Screenshot_230545.png" width="75%" alt="Dashboard Overview"><br/>
+  <img src="assets/screenshots/Screenshot_230604.png" width="75%" alt="Form16 Upload"><br/>
+  <img src="assets/screenshots/Screenshot_230629.png" width="75%" alt="What-If Simulator"><br/>
+  <img src="assets/screenshots/Screenshot_230711.png" width="75%" alt="Tax Comparison"><br/>
+  <img src="assets/screenshots/Screenshot_230725.png" width="75%" alt="Recommendations"><br/>
+  <img src="assets/screenshots/Screenshot_230739.png" width="75%" alt="Genie Assistant"><br/>
+  <img src="assets/screenshots/Screenshot_230847.png" width="75%" alt="PDF Export"><br/>
 </p>
+
+> ⚙️ *(Save your images inside `/assets/screenshots/` before committing.)*
 
 ---
 
@@ -105,31 +105,47 @@ Install the following before you start:
 ```bash
 git clone https://github.com/om-kumar-singh/TaxGenie.git
 cd TaxGenie
-3️⃣ Install Dependencies
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
 npm install
 # or
 yarn
+```
 
-4️⃣ Run the Development Server
+### 4️⃣ Run the Development Server
+
+```bash
 npm run dev
 # or
 yarn dev
+```
 
+The app will be available at 👉 **http://localhost:5173**
 
-The app will be available at:
-👉 http://localhost:5173
+### 5️⃣ Build for Production
 
-5️⃣ Build for Production
+```bash
 npm run build
 # or
 yarn build
+```
 
-6️⃣ Preview the Production Build
+### 6️⃣ Preview the Production Build
+
+```bash
 npm run preview
 # or
 yarn preview
+```
 
-📂 Project Structure
+---
+
+## 📂 Project Structure
+
+```
 TaxGenie/
 ├── public/
 ├── src/
@@ -157,17 +173,47 @@ TaxGenie/
 ├── eslint.config.js
 ├── tsconfig.json
 └── README.md
+```
 
-💻 Usage
+---
 
-Open the app in your browser.
+## 💻 Usage
 
-Enter your income, deductions, and investment details.
+1. **Open the app** at 👉 [TaxGenie](https://taxgenie-helper.netlify.app/)
+2. **Enter your income**, deductions, and investment details
+3. **View tax results** under both Old and New Regimes
+4. **Use the What-If Simulator** to test different financial scenarios
+5. **Export your results** as a PDF report
+6. **Optionally, upload your Form 16** for quick automation
 
-View tax results under both Old and New Regimes.
+---
 
-Use the What-If Simulator to test different financial scenarios.
+## 🤝 Contributing
 
-Export your report as a PDF.
+Contributions are welcome!  
+Fork the repo, create a new branch, make your changes, and submit a PR.
 
-Optionally, upload Form 16 for quick automation.
+```bash
+git checkout -b feature-name
+git commit -m "Add new feature"
+git push origin feature-name
+```
+
+---
+
+## 📜 License
+
+Distributed under the MIT License.  
+See `LICENSE` for more information.
+
+---
+
+## 👨‍💻 Author
+
+**Om Kumar Singh**
+
+- GitHub: [@om-kumar-singh](https://github.com/om-kumar-singh)
+- Project: [TaxGenie](https://github.com/om-kumar-singh/TaxGenie)
+- Live Demo: [TaxGenie](https://taxgenie-helper.netlify.app/)
+
+---
