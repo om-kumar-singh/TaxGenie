@@ -73,19 +73,20 @@
 
 ## 🖼 Screenshots
 
+## 🖼 Screenshots
+
 > *(Preview of TaxGenie features and UI)*  
 
 <p align="center">
-  <img src="assets/screenshots/Screenshot_230545.png" width="75%" alt="Dashboard Overview"><br/>
-  <img src="assets/screenshots/Screenshot_230604.png" width="75%" alt="Form16 Upload"><br/>
-  <img src="assets/screenshots/Screenshot_230629.png" width="75%" alt="What-If Simulator"><br/>
-  <img src="assets/screenshots/Screenshot_230711.png" width="75%" alt="Tax Comparison"><br/>
-  <img src="assets/screenshots/Screenshot_230725.png" width="75%" alt="Recommendations"><br/>
-  <img src="assets/screenshots/Screenshot_230739.png" width="75%" alt="Genie Assistant"><br/>
-  <img src="assets/screenshots/Screenshot_230847.png" width="75%" alt="PDF Export"><br/>
+  <img src="assets/screenshots/Screenshot%202025-10-04%20230514.png" width="75%" alt="Dashboard Overview"><br/>
+  <img src="assets/screenshots/Screenshot%202025-10-04%20230545.png" width="75%" alt="Form16 Upload"><br/>
+  <img src="assets/screenshots/Screenshot%202025-10-04%20230604.png" width="75%" alt="What-If Simulator"><br/>
+  <img src="assets/screenshots/Screenshot%202025-10-04%20230629.png" width="75%" alt="Tax Comparison"><br/>
+  <img src="assets/screenshots/Screenshot%202025-10-04%20230711.png" width="75%" alt="Recommendations"><br/>
+  <img src="assets/screenshots/Screenshot%202025-10-04%20230725.png" width="75%" alt="Genie Assistant"><br/>
+  <img src="assets/screenshots/Screenshot%202025-10-04%20230739.png" width="75%" alt="PDF Export"><br/>
+  <img src="assets/screenshots/Screenshot%202025-10-04%20230847.png" width="75%" alt="Summary Results"><br/>
 </p>
-
-> ⚙️ *(Save your images inside `/assets/screenshots/` before committing.)*
 
 ---
 
