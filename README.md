@@ -1,4 +1,4 @@
-# 🧮 TaxGenie
+# TaxGenie
 
 <p align="center">
   A smart tax computation and simulation web app — built with React + TypeScript + Vite.  
@@ -19,16 +19,15 @@
 ## 🏷️ Badges
 
 <p align="center">
-  ![Node](https://img.shields.io/badge/Node.js-16%2B-green?logo=node.js)
-  ![React](https://img.shields.io/badge/React-18-blue?logo=react)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)
-  ![Vite](https://img.shields.io/badge/Vite-Build-orange?logo=vite)
-  ![Tailwind](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?logo=tailwind-css)
-  ![License](https://img.shields.io/github/license/om-kumar-singh/TaxGenie)
-  ![Stars](https://img.shields.io/github/stars/om-kumar-singh/TaxGenie?style=social)
+  <img src="https://img.shields.io/badge/Node.js-16%2B-green?logo=node.js" alt="Node">
+  <img src="https://img.shields.io/badge/React-18-blue?logo=react" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Vite-Build-orange?logo=vite" alt="Vite">
+  <img src="https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?logo=tailwind-css" alt="Tailwind">
+  <img src="https://img.shields.io/github/license/om-kumar-singh/TaxGenie" alt="License">
+  <img src="https://img.shields.io/github/stars/om-kumar-singh/TaxGenie?style=social" alt="Stars">
 </p>
 
----
 
 ## 📚 Table of Contents
 
